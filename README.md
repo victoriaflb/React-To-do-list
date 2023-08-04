@@ -13,3 +13,5 @@
 Como rodar:
 
 - npm run dev
+
+DEPLOY: https://react-to-do-list-snowy.vercel.app/
